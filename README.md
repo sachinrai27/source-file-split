@@ -18,4 +18,4 @@ from CLI type:
 ```python src_file_split.py  <destination path>```
 
 **Output:**
-The final output is 100MB smaller chunks of the source file(s).
+The final output is in form of 100MB smaller chunks of the source file(s).
